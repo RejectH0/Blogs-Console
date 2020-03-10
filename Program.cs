@@ -10,6 +10,11 @@ namespace BlogsConsole
         private static NLog.Logger logger = NLog.LogManager.GetCurrentClassLogger();
         public static void Main(string[] args)
         {
+            new MainClass();
+        }
+
+        MainClass()
+        {
             logger.Info("Program started");
             try
             {
