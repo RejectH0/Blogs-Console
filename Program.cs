@@ -8,7 +8,7 @@ using System.Text;
 
 namespace BlogsConsole
 {
-    // [fixed #1] [RejectH0 #2] Version 0.2a - Main Menu Deployed, Can List All Blogs, Can Create New Blog, Posts In Progress
+    // Version 0.3b - Need to figure out how to add Post. Asking instructor for assistance.
     class MainClass
     {
         private static NLog.Logger logger = NLog.LogManager.GetCurrentClassLogger();

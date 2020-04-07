@@ -17,7 +17,9 @@ namespace BlogsConsole.Models
 
         public void AddPost(Blog blog)
         {
-            this.Posts
+            // OK, so I know I'm supposed to do something here, but I'm lost for what I need to do here.
+            
+
         }
     }
 }
