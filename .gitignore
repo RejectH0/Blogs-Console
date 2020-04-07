@@ -15,6 +15,7 @@ appsettings.json
 launchsettings.json
 *.DS_Store
 App.config
+App.config.txt
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs

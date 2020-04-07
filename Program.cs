@@ -5,6 +5,7 @@ using System.Linq;
 
 namespace BlogsConsole
 {
+    // [#1] Version 0.1a - Gregg Sperling - Initial Commit
     class MainClass
     {
         private static NLog.Logger logger = NLog.LogManager.GetCurrentClassLogger();
@@ -12,7 +13,6 @@ namespace BlogsConsole
         {
             new MainClass();
         }
-
         MainClass()
         {
             logger.Info("Program started");
